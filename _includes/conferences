@@ -1,0 +1,48 @@
+{% for confyear in site.data.conferences.conferences %}
+  <h2> {{ confyear.year }} </h2>
+  <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+    {% for conference in confyear.activities %}
+    <li>
+      <div class="column">
+        <a href="#" data-reveal-id="{{ conference.id }}">{{ conference.name }}</a>
+        {% if conference.embed != "" %}
+          <iframe src="//slides.com/hannelitavante-hannelita/{{ conference.embed }}/embed" width="288" height="210" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        {% elsif conference.video_embed %}
+          <iframe width="288" height="210" src="{{ conference.video_embed }}" frameborder="0" allowfullscreen> </iframe>
+        {% else %}
+          <a href="#"><img src="{{ site.urlimg }}Conference-sq.png" alt="default conference logo"></a>
+        {% endif %}
+      </div>
+      <div id="{{ conference.id }}" class="reveal-modal medium" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+        <h3 id="modalTitle_{{ conference.id }}">{{ conference.name }} - {{ conference.city }} - {{ conference.country }}</h3>
+        <div class="row">
+          <div class="small-8 medium-8 large-8 columns">
+            {% if conference.video_embed %}
+              <iframe width="578" height="420" src="{{ conference.video_embed }}" frameborder="0" allowfullscreen> </iframe>
+            {% else %}
+              <p>Sorry, no video available.</p>
+              <a href="#"><img src="{{ site.urlimg }}Apology.png" alt="sorry no video available"></a>
+            {% endif %}
+            <div class="row">
+              <div class="small-6 medium-6 large-6 columns">
+                {% if conference.slides != "" %}
+                  {% for slide in conference.slides %}
+                  <div class="column">
+                    <a href="{{ slide }}" target="_blank">Slides {% if forloop.length != 1 %} #{{ forloop.index }} {% endif %}</a>
+                  </div>
+                  {% endfor %}
+                {% endif %}
+              </div>
+              <div class="small-6 medium-6 large-6 columns">
+                <a href="{{ conference.website }}" target="_blank">Conference website</a>
+              </div>
+            </div>
+          </div>
+          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+
+{% endfor %}
