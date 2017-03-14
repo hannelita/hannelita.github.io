@@ -1,0 +1,48 @@
+[
+  
+    {
+      "id": "confoo_yul_2016",
+      "name": "Confoo Montréal Edition",
+      "month": "March",
+      "city": "Montréal",
+      "country": "Canada",
+      "role": ["Speaker", "Advisor"],
+      "slides": ["http://slides.com/hannelitavante-hannelita/confoo-cassandra-yul-2017#/, http://slides.com/hannelitavante-hannelita/machine-learning-algorithms-confoo-yul-2017#/"],
+      "embed": "machine-learning-algorithms-confoo-yul-2017",
+      "video": "",
+      "website": ["https://confoo.ca/en/yul2017/schedule"],
+      "time_track": [ {
+        "content_preparation": 45,
+        "organising_time": 30,
+        "active_volunteer_working_time": 2,
+        "presentation_length": 2,
+        "after_session": 1,
+        "travel_financial_aid": true,
+        "travel_time": 20,
+        "total": 100,
+        "comments": "the conference paid for the hotel, meals and flights"
+      }]
+    },
+    {
+      "id": "jfokus_2017",
+      "name": "JFokus",
+      "month": "February",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "role": ["Speaker"],
+      "slides": ["http://slides.com/hannelitavante-hannelita/rust-jfokus-2017#/", "http://slides.com/hannelitavante-hannelita/type-theory-jfokus-2017#/"],
+      "embed": "rust-jfokus-2017",
+      "video": "",
+      "website": ["https://www.jfokus.se/jfokus/talks.jsp"],
+      "time_track": [ {
+        "content_preparation": 20,
+        "presentation_length": 2,
+        "after_session": 2,
+        "travel_financial_aid": true,
+        "travel_time": 40,
+        "total": 64,
+        "comments": "the conference paid for the hotel. They did not reimburse me for the flights"
+      }]
+    }
+  
+]

@@ -7,14 +7,14 @@
 layout: frontpage
 header:
   title: Hanneli's Universe
-  background-color: "#45B29D"
+  background-color: "#334D5C"
   <!-- image_fullwidth: ht_header_unsplash_5.jpg -->
 widget1:
   title: "Conferences"
   url: '/conferences'
   <!-- image: widget-1-302x182.jpg -->
   image: Conference-sq.png
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Check some of my presentations around the world. Several random subjects about technology and computers.'
 widget2:
   title: "Posts"
   url: 'https://medium.com/@hannelita'
@@ -24,7 +24,7 @@ widget3:
   title: "Recruiter's place"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: icon_find_talent-200-sq.png
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: '<em>Are you recruiting?</em> Let us see if we have a good match. Check this section and tell me more about the job positions you have.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -36,8 +36,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /conferences/
+  text: Check my works ›
   style: alert
 permalink: /index.html
 #

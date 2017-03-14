@@ -1,7 +1,9 @@
 ---
 permalink: /search/
 layout: page
-title: "Search"
+header:
+   title: Search
+   background-color: "#334D5C"
 sitemap: false
 ---
 

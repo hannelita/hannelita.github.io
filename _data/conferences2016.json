@@ -1,6 +1,5 @@
-{ "conferences": [
-  { "year": "2016",
-    "activities": [
+[
+  
     {
       "id": "waterloo_cassandra_dec_2016",
       "name": "Cassandra Waterloo Meetup",
@@ -11,6 +10,7 @@
       "slides": ["http://slides.com/hannelitavante-hannelita/waterloo-2016-smart-bots#/"],
       "embed": "waterloo-2016-smart-bots",
       "video": "https://www.youtube.com/watch?v=9kzG1_dEqB8",
+      "video_embed": "https://www.youtube.com/embed/9kzG1_dEqB8",
       "website": ["https://www.meetup.com/Waterloo-DevOps-Meetup/events/234440111/ "],
       "time_track": [ {
         "content_preparation": 1,
@@ -136,6 +136,7 @@
       "slides": ["http://slides.com/hannelitavante-hannelita/devoxx-be-notes-type-theory#/"],
       "embed": "devoxx-be-notes-type-theory",
       "video": "https://www.youtube.com/watch?v=UXBoiqRJ6DQ",
+      "video_embed": "https://www.youtube.com/embed/UXBoiqRJ6DQ",
       "website": ["http://cfp.devoxx.be/2016/talk/BRC-3050/Notes_on_Type_Theory_for_absolute_beginners_"],
       "time_track": [ {
         "content_preparation": 14,
@@ -156,6 +157,7 @@
       "slides": ["http://slides.com/hannelitavante-hannelita/pyconie-graphs-docs#/"],
       "embed": "pyconie-graphs-docs",
       "video": "https://youtu.be/TfycokREM-Y?list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3",
+      "video_embed": "https://www.youtube.com/embed/TfycokREM-Y?list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3",
       "website": ["http://python.ie/pycon-2016/schedule/"],
       "time_track": [ {
         "content_preparation": 4,
@@ -216,7 +218,8 @@
       "role": ["Keynote", "Workshop Instructor"],
       "slides": ["http://slides.com/hannelitavante-hannelita/rust-type-system-pybr12#/", "http://slides.com/hannelitavante-hannelita/pythonbr-cassandra#/"],
       "embed": "rust-type-system-pybr12",
-      "video": "",
+      "video": "https://www.youtube.com/watch?v=kP5olvIlTmc",
+      "video_embed": "https://www.youtube.com/embed/kP5olvIlTmc",
       "website": ["http://2016.pythonbrasil.org.br/"],
       "time_track": [ {
         "content_preparation": 16,
@@ -260,6 +263,7 @@
       "slides": ["http://slides.com/hannelitavante-hannelita/rustfest#/"],
       "embed": "rustfest",
       "video": "https://www.youtube.com/watch?v=8fs_Pt-kDz4",
+      "video_embed": "https://www.youtube.com/embed/8fs_Pt-kDz4",
       "website": ["http://www.rustfest.eu/"],
       "time_track": [ {
         "content_preparation": 40,
@@ -283,6 +287,7 @@
       "slides": [""],
       "embed": "",
       "video": "https://www.youtube.com/watch?v=2bG7pU9ZyJM",
+      "video_embed": "https://www.youtube.com/embed/2bG7pU9ZyJM",
       "website": [""],
       "time_track": [ {
         "content_preparation": 6,
@@ -619,7 +624,7 @@
     },
     {
       "id": "confoo_yul_2016",
-      "name": "Confoo",
+      "name": "Confoo Montréal Edition",
       "month": "February",
       "city": "Montreal",
       "country": "Canada",
@@ -646,6 +651,7 @@
       "slides": ["http://slides.com/hannelitavante-hannelita/onde-a-computacao-encontra-a-fisica-quantica#/"],
       "embed": "onde-a-computacao-encontra-a-fisica-quantica",
       "video": "https://youtu.be/xu9I1PG-ExI?t=8h50m32s",
+      "video_embed": "https://www.youtube.com/embed/xu9I1PG-ExI",
       "website": ["http://campuse.ro/events/campus-party-brasil-2016/talk/onde-a-computacao-encontra-a-fisica-quantica-cpbr9/"],
       "time_track": [ {
         "content_preparation": 10,
@@ -707,6 +713,7 @@
       "slides": ["http://slides.com/hannelitavante-hannelita/geometria-analitica#/"],
       "embed": "geometria-analitica",
       "video": "https://www.youtube.com/watch?v=a9s2PQavqYk",
+      "video_embed": "https://www.youtube.com/embed/a9s2PQavqYk",
       "website": ["https://www.meetup.com/SP-Math-Physics-Science-Meetup/events/227582851/"],
       "time_track": [ {
         "content_preparation": 8,
@@ -717,5 +724,5 @@
         "comments": "online meetup"
       }]
     }   
-  ]}
-]}
+  
+]

@@ -1,6 +1,5 @@
 ---
-layout: default
-format: page-fullwidth
+layout: page-fullwidth
 show_meta: false
 header:
    title: Conferences
