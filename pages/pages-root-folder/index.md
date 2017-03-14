@@ -37,7 +37,7 @@ widget3:
 #
 callforaction:
   url: /conferences/
-  text: Check my works ›
+  text: Check my work ›
   style: alert
 permalink: /index.html
 #
