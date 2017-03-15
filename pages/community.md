@@ -1,10 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "Community"
-subheadline: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   title: Community
+   background-color: "#334D5C"
 permalink: "/community/"
 ---
 <div class="medium-4 columns frontpage-widget">
