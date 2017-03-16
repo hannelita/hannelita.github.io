@@ -12,6 +12,8 @@ permalink: "/community/meetups/"
   <p>I've been helping to organise the following meetups in São Paulo, Brazil:</p>
 </div>
 
+<hr>
+
 <div class="row">
   <ul class="small-block-grid-2 medium-block-grid-2 large-block-grid-2">
     <li>
@@ -63,7 +65,7 @@ permalink: "/community/meetups/"
 <div class="row">
   <h2>Meetups Archive</h2>
 </div>
-
+<hr>
 <div class="row">
   <ul class="small-block-grid-1 medium-block-grid-1 large-block-grid-1">
     <li>
