@@ -21,7 +21,7 @@ widget2:
   image: writing-icon-23-sq.png
   text: '<em>Posts</em> about computers, technology, mathematics and random thoughts.'
 widget3:
-  title: "Hire me."
+  title: "Hire me"
   url: '/hireme'
   image: icon_find_talent-200-sq.png
   text: '<em>Are you recruiting?</em> Let us see if we have a good match. Check this section and tell me more about the job positions you have.'
