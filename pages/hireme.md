@@ -17,9 +17,9 @@ I am interested in:
 * Conferences and public speaking
 * Maths
 
-I am available to start in June/July, 2017.
+I am available to start in June/July, 2017. If you have an interesting position, tell me more about it:
 
-## [If you have an interesting position, tell me more about it](https://docs.google.com/forms/d/e/1FAIpQLSeitvbdokQiYbOaBi2_DUhl8Q5biz0nKEAy-0FVpOZgM9PU4g/viewform?usp=sf_link)
+<p><a class="button radius" href="https://docs.google.com/forms/d/e/1FAIpQLSeitvbdokQiYbOaBi2_DUhl8Q5biz0nKEAy-0FVpOZgM9PU4g/viewform?usp=sf_link" target="_blank">About your awesome job position</a></p>
 
 [1]:{{ site.url }}/download/HanneliCVwithprojects-dld.pdf
 
