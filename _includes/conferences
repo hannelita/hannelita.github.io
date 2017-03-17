@@ -1,7 +1,7 @@
 <div id="row t30">
   <h2> 2017 </h2>
 </div>
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-3">
+<ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3">
   {% for conference in site.data.conferences2017 %}
   <li>
     <div class="column">
@@ -52,7 +52,7 @@
 <div id="row t30">
   <h2> 2016 </h2>
 </div>
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-3">
+<ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3">
   {% for conference in site.data.conferences2016 %}
   <li>
     <div class="column">
