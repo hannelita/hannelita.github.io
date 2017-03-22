@@ -1,7 +1,28 @@
 [
+
+    {
+      "id": "devoxx_us_2017",
+      "name": "Devoxx US 2017",
+      "month": "March",
+      "city": "San Jose",
+      "country": "United States of America",
+      "role": ["Speaker"],
+      "slides": ["http://slides.com/hannelitavante-hannelita/types-in-java-kotlin-and-scala#/", "http://slides.com/hannelitavante-hannelita/rust-intro-dexx-us-2017#/", "http://slides.com/hannelitavante-hannelita/devoxx-us-2017-cassandra#/"],
+      "embed": "types-in-java-kotlin-and-scala",
+      "video": "",
+      "website": ["http://cfp.devoxx.us/2017/agenda/conf/tuesday"],
+      "time_track": [ {
+        "content_preparation": 65,
+        "presentation_length": 3,
+        "after_session": 2,
+        "travel_financial_aid": false,
+        "travel_time": 40,
+        "total": 110
+      }]
+    },
   
     {
-      "id": "confoo_yul_2016",
+      "id": "confoo_yul_2017",
       "name": "Confoo Montréal Edition",
       "month": "March",
       "city": "Montréal",
