@@ -10,7 +10,7 @@ I am currently looking for a job. Please check my [CV][1] and most important, my
 
 ### TL;DR
 I am interested in:
-* Writing code
+* Writing code - data analysis, machine learning (I can also do Web development, but I'm not so interested in doing so)
 * Travelling is not a problem
 * _Relocating is not a problem_, depending on the place
 * I _want to move away from São Paulo_, where I am currently based.
