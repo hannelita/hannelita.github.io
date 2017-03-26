@@ -12,8 +12,8 @@ I am currently looking for a job. Please check my [CV][1] and most important, my
 I am interested in:
 * Writing code
 * Travelling is not a problem
-* Relocating is not a problem, depending on the place
-* I would like to move away from São Paulo, where I am currently based.
+* _Relocating is not a problem_, depending on the place
+* I _want to move away from São Paulo_, where I am currently based.
 * Conferences and public speaking
 * Maths
 
