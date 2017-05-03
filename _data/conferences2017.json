@@ -1,4 +1,45 @@
-[
+[   
+    {
+      "id": "papers_we_love_madrid_april_2017",
+      "name": "Papers We Love Madrid April 2017",
+      "month": "April",
+      "city": "Madrid",
+      "country": "Spain",
+      "role": ["Speaker"],
+      "slides": ["http://slides.com/hannelitavante-hannelita/historical-development-of-algebraic-geometry#/"],
+      "embed": "historical-development-of-algebraic-geometry",
+      "video": "",
+      "website": ["https://www.meetup.com/Papers-We-Love-Madrid/events/239309072/"],
+      "time_track": [ {
+        "content_preparation": 80,
+        "presentation_length": 2,
+        "after_session": 1,
+        "travel_financial_aid": true,
+        "travel_time": 20,
+        "total": 103
+      }]
+    },
+
+    {
+      "id": "mixit_2017",
+      "name": "MiXiT 2017",
+      "month": "April",
+      "city": "Lyon",
+      "country": "France",
+      "role": ["Speaker"],
+      "slides": ["http://slides.com/hannelitavante-hannelita/type-theory-mixit-2017#/", "http://slides.com/hannelitavante-hannelita/rust-intro-mixit-17#/"],
+      "embed": "type-theory-mixit-2017",
+      "video": "",
+      "website": ["https://mixitconf.org/en/2017"],
+      "time_track": [ {
+        "content_preparation": 30,
+        "presentation_length": 2,
+        "after_session": 2,
+        "travel_financial_aid": true,
+        "travel_time": 40,
+        "total": 74
+      }]
+    },
 
     {
       "id": "devoxx_us_2017",
