@@ -1,5 +1,28 @@
 [   
     {
+      "id": "oscon_2017",
+      "name": "OSCON",
+      "month": "May",
+      "city": "Austin",
+      "country": "United States of America",
+      "role": ["Speaker", "Volunteer"],
+      "slides": ["http://slides.com/hannelitavante-hannelita/rust-intro-oscon-2017#/"],
+      "embed": "rust-intro-oscon-2017",
+      "video": "",
+      "website": ["https://conferences.oreilly.com/oscon/oscon-tx/public/schedule/speaker/132180"],
+      "time_track": [ {
+        "content_preparation": 16,
+        "organising_time": 2,
+        "active_volunteer_working_time": 15,
+        "presentation_length": 1,
+        "after_session": 1,
+        "travel_financial_aid": true,
+        "travel_time": 20,
+        "total": 55,
+        "comments": "partial travel expenses covered. Worked as a volunteer."
+      }]
+    },
+    {
       "id": "papers_we_love_madrid_april_2017",
       "name": "Papers We Love Madrid April 2017",
       "month": "April",
