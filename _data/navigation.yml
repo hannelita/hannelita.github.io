@@ -2,21 +2,21 @@
   url: "/"
   side: left
 
-- title: Conferences
-  url: "/conferences/"
+- title: Research
+  url: "/academic/"
   side: left
 
-- title: "Community"
-  url: "/community/"
-  side: left
-  dropdown:
-  - title: "Open Source Projects"
-    url: "/community/oss/"
-  - title: "Meetups"
-    url: "/community/meetups/"
+# - title: "Community"
+#   url: "/community/"
+#   side: left
+#   dropdown:
+#   - title: "Open Source Projects"
+#     url: "/community/oss/"
+#   - title: "Meetups"
+#     url: "/community/meetups/"
 
-- title: "Interests"
-  url: "/interests/"
+- title: "Previous works"
+  url: "/past/"
   side: left
 
 - title: CV
@@ -32,7 +32,7 @@
   url: "https://medium.com/@hannelita"
   side: left
   dropdown:
-  - title: "Recent posts"
+  - title: "Very old posts"
     url: "https://medium.com/@hannelita"
   # - title: "Blog Archive"
     # url: "/blog/archive/"

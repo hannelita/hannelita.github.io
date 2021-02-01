@@ -8,23 +8,21 @@ layout: frontpage
 header:
   title: Hanneli's Universe
   background-color: "#334D5C"
-  <!-- image_fullwidth: ht_header_unsplash_5.jpg -->
 widget1:
-  title: "Conferences"
-  url: '/conferences'
-  <!-- image: widget-1-302x182.jpg -->
-  image: Conference-sq.png
-  text: 'Check some of my presentations around the world. Several random subjects about technology and computers.'
+  title: "whoami now"
+  url: '/academic'
+  <!-- image: research.png -->
+  text: 'At this point in life, I am a PhD student at McGill university, doing reseach in Programming Languages. Find out more about it by clicking the button below: '
 widget2:
-  title: "Posts"
-  url: 'https://medium.com/@hannelita'
-  image: writing-icon-23-sq.png
-  text: '<em>Posts</em> about computers, technology, mathematics and random thoughts.'
+  title: "whowasi then"
+  url: '/past'
+  <!-- image: icon_find_talent-200-sq.png -->
+  text: 'In the past, I was a very enthusiastic software developer. I still am! I used to do a lot of talks and contributed to a few open source projects.'
 widget3:
-  title: "Hire me"
-  url: '/hireme'
-  image: icon_find_talent-200-sq.png
-  text: 'Do you need a <em>lead developer/ software engineer</em>?'
+  title: "CV"
+  url: '/cv'
+  <!-- image: cv.png -->
+  text: ''
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -36,8 +34,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /conferences/
-  text: Check my work ›
+  url: https://github.com/hannelita
+  text: Check my work (GitHub) ›
   style: alert
 permalink: /index.html
 #
@@ -53,3 +51,17 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+
+  <!-- image_fullwidth: ht_header_unsplash_5.jpg -->
+  <!-- widget1: -->
+  <!-- title: "Conferences" -->
+  <!-- url: '/conferences' -->
+  <!-- image: widget-1-302x182.jpg -->
+  <!-- image: Conference-sq.png -->
+  <!-- text: 'Check some of my presentations around the world. Several random subjects about technology and computers.' -->
+  <!-- widget2: -->
+  <!-- title: "Posts" -->
+  <!-- url: 'https://medium.com/@hannelita' -->
+  <!-- image: writing-icon-23-sq.png -->
+  <!-- text: '<em>Posts</em> about computers, technology, mathematics and random thoughts.' -->

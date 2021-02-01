@@ -15,7 +15,7 @@ Twitter: {{ author.twitter }}{% endif %}
 /* THANKS */
 
 Name: hannelita
-Role: Thinker
+Role: none
 Site: 
 Twitter: @hannelita
 Theme: http://phlow.github.io/feeling-responsive/
