@@ -1,6 +1,6 @@
-- menu_name: "Thanks"
+# - menu_name: "Thanks"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+# - name: "Built on Foundation"
+#   url: "http://foundation.zurb.com/"
+#   class: "services-newsletter"
+#   title: "Built on Foundation"

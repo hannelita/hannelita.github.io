@@ -1,9 +1,9 @@
-- menu_name: "Services"
+# - menu_name: "Services"
 
-- name: "Contact"
+- name: "Drop me a line!"
   url: "/contact/"
   title: "Contact"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+# - name: "sitemap.xml"
+#   url: "/sitemap.xml"
+#   title: "Sitemap for Google Webmaster Tools"
