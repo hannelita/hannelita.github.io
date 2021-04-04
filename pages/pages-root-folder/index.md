@@ -12,7 +12,7 @@ widget1:
   title: "whoami now"
   url: '/academic'
   <!-- image: research.png -->
-  text: 'At this point in life, I am a PhD student at McGill university, doing reseach in Programming Languages. Find out more about it by clicking the button below: '
+  text: 'At this point in life, I am a Grad student at McGill university, doing reseach in Programming Languages. Find out more about it by clicking the button below: '
 widget2:
   title: "whowasi then"
   url: '/past'
@@ -33,10 +33,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://github.com/hannelita
-  text: Check my work (GitHub) ›
-  style: alert
+# callforaction:
+#  url: https://github.com/hannelita
+#  text: Check my work (GitHub) ›
+#  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
