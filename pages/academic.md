@@ -11,4 +11,4 @@ In recent times, I've been working with OCaml and with the [LearnOCaml platform]
 
 In the past, I also did research in an intersection of Electrical Engineering and Computer Science! More specifically, I've been trying to convince engineers that there are alternatives to C and C++, in particular at domains like electromagnetic transient analysis. I started with Python (in [this paper](https://ieeexplore.ieee.org/document/8627346)), and then [Haskell](https://github.com/hannelita/haskell-etrp-doc/blob/master/Report.pdf).
 
-In my free time, I try to invest some time in some [of my hobbies]({{ site.url }}/hobbies)
+In my free time, I enjoy some of [of my hobbies]({{ site.url }}{{ site.baseurl }}/hobbies)
