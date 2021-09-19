@@ -1,9 +1,6 @@
 ---
-layout: page
-show_meta: false
-header:
-   title: CV
-   background-color: "#334D5C"
+layout: single
+title: CV
 permalink: "/cv/"
 ---
 [Downlaod my CV][1] or [visit my LinkedIn][2]

@@ -2,6 +2,7 @@
 
 # Hanneli's personal website
 
-Powered by [*Feeling Responsive*][1]
+<!-- Powered by [*Feeling Responsive*][1]
 
 [1]: http://phlow.github.io/feeling-responsive/
+ -->

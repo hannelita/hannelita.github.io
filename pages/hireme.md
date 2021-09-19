@@ -1,12 +1,10 @@
 ---
-layout: page
-header:
-   title: Hire me
-   background-color: "#334D5C"
+layout: single
+title: Hire me
 permalink: "/hireme/"
 ---
 
-I am available for 10h/week contracts in the following areas:
+I am seasonally available for 10h/week contracts in the following areas:
 
 * Writing code - data analysis, machine learning 
 * I can also do Web development

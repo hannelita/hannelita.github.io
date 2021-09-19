@@ -1,46 +1,38 @@
-- title: Home
-  url: "/"
-  side: left
+main:
+  - title: Home
+    url: "/"
 
-- title: Research
-  url: "/academic/"
-  side: left
+  - title: Research
+    url: "/academic/"
 
-# - title: "Community"
-#   url: "/community/"
-#   side: left
-#   dropdown:
-#   - title: "Open Source Projects"
-#     url: "/community/oss/"
-#   - title: "Meetups"
-#     url: "/community/meetups/"
+  # - title: "Community"
+  #   url: "/community/"
+  #   side: left
+  #   dropdown:
+  #   - title: "Open Source Projects"
+  #     url: "/community/oss/"
+  #   - title: "Meetups"
+  #     url: "/community/meetups/"
 
-- title: "Previous works"
-  url: "/past/"
-  side: left
+  - title: "Previous works"
+    url: "/past/"
 
-- title: CV
-  url: "/cv/"
-  side: left
-  dropdown:
-  - title: "Formal CV"
-    url: "/download/HanneliCVwithprojects-dld.pdf"
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/hannelita/"
+  - title: CV
+    url: "/cv/"
 
-- title: Blog
-  url: "https://medium.com/@hannelita"
-  side: left
-  dropdown:
-  - title: "Very old posts"
-    url: "https://medium.com/@hannelita"
-  # - title: "Blog Archive"
-    # url: "/blog/archive/"
+  - title: "Hobbies"
+    url: "/hobbies/"
+    
 
-- title: "Search"
-  url: "/search/"
-  side: right
+  # - title: Blog
+  #   url: "https://medium.com/@hannelita"
+    
+    # - title: "Blog Archive"
+      # url: "/blog/archive/"
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+  # - title: "Search"
+  #   url: "/search/"
+  #   side: right
+
+  - title: "Contact"
+    url: "/contact/"

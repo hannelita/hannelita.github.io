@@ -1,9 +1,6 @@
 ---
-layout: page-fullwidth
-show_meta: false
-header:
-   title: Interests
-   background-color: "#334D5C"
+layout: single
+title: Interests
 permalink: "/interests/"
 ---
 
