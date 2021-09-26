@@ -4,10 +4,11 @@ title: Books
 permalink: "/books/"
 ---
 
-I like reading :) Here are some of my favourite picks. Do you like any of these? Let's chat about these books!
+I like reading :) Here are some of my favourite picks. Do you like any of these? Let's chat about these books, send me an email!
 Also, in the list below, I'll leave out a few general comments (don't worry, no spoiler about the books; the comments are about general reading facts).
-**Warning**: the list above contains titles in multiple languages.
-Titles are not listed in any kind of order; I enjoyed all of them (maybe some more than the others, but maybe these details won't matter to you).
+
+**Warning**: the list below contains titles in multiple languages.
+Titles are not listed in any kind of order; I genuinely enjoyed all of them (maybe some more than the others, but these details won't matter to you).
 
 
 # Books (General picks)
