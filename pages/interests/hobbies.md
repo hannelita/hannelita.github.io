@@ -17,10 +17,10 @@ I eventually enjoy non-coding/non-math topics, such as Pokémon, Lego, figure sk
 
 ### Random stuff
 
-* Reading books (dystopias, criminal, thriller, biographies, philosophy, etc) - see my [reading suggestions]({{ site.url }}{{ site.baseurl }}/books)
+* Reading books (literature classics, dystopias, thriller, biographies, philosophy, etc) - see my [reading suggestions]({{ site.url }}{{ site.baseurl }}/books)
 * Cooking - check out my new blog to learn a [reciPL](https://recipl.es/) and have fun with PL jokes! Do you happen to know a good reciPL? [Send a PR to this blog](https://github.com/reciples/reciples.github.io)!
-* Speaking of cooking, good bread and good cheese are priorities for me. 
-* Stationery - I am on the Pentel Energel 0.38 and 0.5 team + Leuchtturm 1917. Do you also enjoy nice pens and good quality paper? Let's be friends!
+* Speaking of cooking, good bread, good coffee (no sugar!) and good cheese are priorities for me. 
+* Stationery - I am in the Pentel Energel 0.38 and 0.5 team + Leuchtturm 1917. Do you also enjoy nice pens and good quality paper? Let's be friends!
 * Gardening - cultivate flowers in the warm months of Montréal is pure joy!
 * Ice skating - watching it is very pleasant; falling on the ice is very painful.
 

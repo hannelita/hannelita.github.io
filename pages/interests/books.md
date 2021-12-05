@@ -23,6 +23,7 @@ Titles are not listed in any kind of order; I genuinely enjoyed all of them (may
 1. 1984 (Orwell)
 1. Ensaio Sobre a Cegueira (José Saramago) - [EN Blindness](https://en.wikipedia.org/wiki/Blindness_(novel))
 1. O Pêndulo de Foucault (Umberto Eco) - [EN Foucault's Pendulum](https://en.wikipedia.org/wiki/Foucault%27s_Pendulum) - Note: Can you read in any Latin-derived languages? (Portuguese, Italian, French, Spanish, etc)? Read Umberto Eco in these languages. Umberto Eco "tastes" differently outside English. It gets much denser, richer and fabulous. (Sorry if you can't read in these languages...)
+1. [For Whom the Bell Tolls](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls) (Ernest Hemingway)
 
 
 (More titles to come)
@@ -37,5 +38,11 @@ Below, multiple titles I read during my undergrad years (more than a decade ago;
 1. Calculus Made Easy (S. Thompson) - I love the author's style. I remember saying to myself I'd copy it every time I could. This book (funny) taught me a lot about pedagogy too.
 1. Surely You're Joking, Mr. Feynman! (R. P. Feynman) - Opinion: Feynman was an excellent communicator. Young Hanneli wanted to be be like that too.
 1. Six Quantum Pieces (V. Scarani)
+
+
+## Entertaining Authors (not necessarily my top picks, but worth reading)
+
+1. Agatha Christie Books - I find them relaxing.
+1. Clarice Lispector.
 
 

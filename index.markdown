@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hi! Welcome to this (redesigned) page!
+Hi! Welcome to this page!
 
 I am an MSc student in computer science at McGill University. Are you here to get info about my previous and current research? Check [this page]({{ site.url }}{{ site.baseurl }}/academic) or take a look at my [CV]({{ site.url }}/download/HanneliCVwithprojects-dld.pdf).
 
@@ -13,6 +13,6 @@ In the past, I was a very enthusiastic software developer. I still am! I used to
 
 And as a human being, I also have some hobbies! They are listed [here]({{ site.url }}{{ site.baseurl }}/hobbies).
 
-Have fun, this will be a wild ride!
+Have fun! <3
 
 
