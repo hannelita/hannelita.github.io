@@ -24,6 +24,7 @@ Titles are not listed in any kind of order; I genuinely enjoyed all of them (may
 1. Ensaio Sobre a Cegueira (José Saramago) - [EN Blindness](https://en.wikipedia.org/wiki/Blindness_(novel))
 1. O Pêndulo de Foucault (Umberto Eco) - [EN Foucault's Pendulum](https://en.wikipedia.org/wiki/Foucault%27s_Pendulum) - Note: Can you read in any Latin-derived languages? (Portuguese, Italian, French, Spanish, etc)? Read Umberto Eco in these languages. Umberto Eco "tastes" differently outside English. It gets much denser, richer and fabulous. (Sorry if you can't read in these languages...)
 1. [For Whom the Bell Tolls](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls) (Ernest Hemingway)
+1. Perto do coração selvagem (Clarice Lispector) - [EN Near to the Wild Heart](https://en.wikipedia.org/wiki/Near_to_the_Wild_Heart) - I really like books where I can be in the person's mind. This book is brilliant. 
 
 
 (More titles to come)

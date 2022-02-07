@@ -4,7 +4,9 @@ title: Research
 permalink: "/academic/"
 ---
 
-I am an MSc student at McGill university under the supervision of Prof. [Zeljko Zilic](http://iml.ece.mcgill.ca/people/professors/zilic/) at the Integrated Microsystems Laboratory. I've been trying to convince my lab mates that assertions are not enough to verify circuits, and we've been working towards a Coq implementation for verifying Verilog programs. 
+I am an MSc student at McGill university under the supervision of Prof. [Zeljko Zilic](http://iml.ece.mcgill.ca/people/professors/zilic/) at the Integrated Microsystems Laboratory. I've been trying to convince my lab mates that assertions are not enough to verify circuits, and we've been working towards a Coq implementation for verifying Verilog programs (or a subset of programs).
+
+When I'm stuck into some arbitrary Coq proof, I usually spend some time in my side projects. One of them is thinking about [better interfaces for proof assistants]({{ site.url }}/download/ml21-submission.pdf), and, more generally, how to make them more accessible to people. 
 
 Before that, I've worked with OCaml and with the [LearnOCaml platform](https://github.com/teaching-the-art-of-fp/learn-ocaml). You can check my recent poster at SIGCSE'21 [here](https://dl.acm.org/doi/10.1145/3408877.3439579).
 

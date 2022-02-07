@@ -13,6 +13,8 @@ In the past, I was a very enthusiastic software developer. I still am! I used to
 
 And as a human being, I also have some hobbies! They are listed [here]({{ site.url }}{{ site.baseurl }}/hobbies).
 
+Some folks told me they visited my website hoping to find a section "how to pronounce my name". If you are curious, here it goes: the stressed syllable is the first one; proceed with the standard EN pronunciation and you'll get a very acceptable result :) . 
+
 Have fun! <3
 
 

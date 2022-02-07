@@ -92,9 +92,9 @@ author:
   bio      : "Graduate student @ [McGill University](https://www.mcgill.ca/)"
   location : "Montréal, Canada"
   links:
-    - label: "This website"
-      icon: "fas fa-fw fa-link"
-      url: "https://hannelita.com"
+    # - label: "This website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://hannelita.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hannelita"
@@ -105,7 +105,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/hannelita"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hannelita/"
 
 
