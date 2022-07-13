@@ -15,6 +15,14 @@ In the past, I also did research in an intersection of Electrical Engineering an
 
 Check my [CV]({{ site.url }}/download/HanneliCVwithprojects-dld.pdf) for further details.
 
+## Research Interests and Academic Goals
+
+Given my background in Electrical Engineering and CS, combined with years of industry experience, I became particularly interested in the intersection of software and hardware formalization. I am currently working on a verified Hardware Description Language (HDL) built in Coq and inspired in Verilog. I am constantly asking questions about its typing system: how can I design a strongly typed language without getting rid of the comfort of writing Verilog? How can I take into account the needs for time and resource representation? More importantly, how could I properly verify the properties of this language? Is there a good semantic model for it? 
+
+I want to make Proof Assistants more accessible to a broader audience. I personally think they are awesome, and more projects could benefit from them - if we could lower the entry bar to this particular PL branch. There are many ways in which we can do it, but improving the tooling around them sounds like a good path. I threw in some of ideas in the [publications]({{ site.url }}/academic/#publications-list) list below.
+
+Besides proof assistants and HDL, I'm broadly interested in general aspects of verification, type theory, functional programming, effective teaching of Maths, CS and Engineering.
+
 ## Publications List
 
 1. [Towards an Incremental Dataset of Proofs]({{ site.url }}/download/submission-hatra21.pdf) - [Human Aspects of Types and Reasoning Assistants](https://2021.splashcon.org/details/hatra-2021-papers/9/Towards-an-Incremental-Dataset-of-Proofs) (HATRA) 2021 (co-located with [SPLASH'21](https://2021.splashcon.org/) )
