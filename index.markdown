@@ -5,15 +5,21 @@
 layout: home
 ---
 
-Hi! Welcome to this page!
+Hi! Welcome to this page; make yourself at home!
 
-I am an MSc student in computer science at McGill University. Are you here to get info about my previous and current research? Check [this page]({{ site.url }}{{ site.baseurl }}/academic) or take a look at my [CV]({{ site.url }}/download/HanneliCVwithprojects-dld.pdf).
+I am currently work at Intel, designing and maintaining [tools](https://github.com/p4lang/p4c) for [p4](https://opennetworking.org/p4/) programs. I am also a part-time faculty at [Dawson College](https://www.dawsoncollege.qc.ca/computer-science-technology/), where I can share my passion about programming. 
+
+I recently completed my graduate studies in computer science at McGill University. These were not the happiest days of my life, but I fell in love with programming languages (or just PL). I still find time to fulfill my interests about a pleasant formalization for hardware + software. I am a big fan of proof assistants and dependent types. Check [this page]({{ site.url }}{{ site.baseurl }}/academic) for more information. Do you also like these topics? Let's have some coffee or tea and and talk about PL!
+
+I also supported multiple [SIGPLAN](https://www.sigplan.org/) [conferences](https://www.sigplan.org/Conferences/) as a volunteer and as a member of the organizing committee of POPL, ICFP, PLDI. But almost none cares about that.
+
+Take a look at my [CV]({{ site.url }}/download/HanneliCVwithprojects-dld.pdf) for more information.
 
 In the past, I was a very enthusiastic software developer. I still am! I used to do a lot of talks and contributed to a few open source projects. You can check out some of these records [here]({{ site.url }}{{ site.baseurl }}/past).
 
 And as a human being, I also have some hobbies! They are listed [here]({{ site.url }}{{ site.baseurl }}/hobbies).
 
-Some folks told me they visited my website hoping to find a section "how to pronounce my name". If you are curious, here it goes: the stressed syllable is the first one; proceed with the standard EN pronunciation and you'll get a very acceptable result :) . 
+Some folks told me they visited my website hoping to find a section "how to pronounce my name". If you are curious, here it goes: the stressed syllable is the first one; proceed with the standard EN pronunciation and you'll get a very acceptable result :) . However, in my native language, the "H" has no sound. 
 
 Have fun! <3
 
