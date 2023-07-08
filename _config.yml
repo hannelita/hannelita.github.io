@@ -89,7 +89,7 @@ logo: "/assets/images/defaultlogo.jpg"
 author:
   name     : "Hanneli Tavante"
   avatar   : "/assets/images/defaultlogo.jpg"
-  bio      : "Graduate student @ [McGill University](https://www.mcgill.ca/)"
+  bio      : "PL and Math"
   location : "Montréal, Canada"
   links:
     # - label: "This website"

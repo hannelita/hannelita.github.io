@@ -7,11 +7,13 @@ layout: home
 
 Hi! Welcome to this page; make yourself at home!
 
-I am currently working at Intel, designing and maintaining [tools](https://github.com/p4lang/p4c) for [p4](https://opennetworking.org/p4/) programs. I am also a part-time faculty at [Dawson College](https://www.dawsoncollege.qc.ca/computer-science-technology/), where I can share my passion about programming. 
+I am currently working at Nasdaq as a Software Engineer (focusing on SRE).
+
+A while back, I was working at Intel, designing and maintaining [tools](https://github.com/p4lang/p4c) for [p4](https://opennetworking.org/p4/) programs. I was also a part-time faculty at [Dawson College](https://www.dawsoncollege.qc.ca/computer-science-technology/), where I shared my passion about programming. I do enjoy teaching and compilers.
 
 Take a look at my [CV]({{ site.url }}/download/HanneliCVwithprojects-dld.pdf) for more information.
 
-I recently completed my graduate studies in computer science at McGill University. These were not the happiest days of my life, but I fell in love with programming languages (or just PL). I still find time to fulfill my interests about a pleasant formalization for hardware + software. I am a big fan of proof assistants and dependent types. Check [this page]({{ site.url }}{{ site.baseurl }}/academic) for more information. Do you also like these topics? Let's have some coffee or tea and and talk about PL!
+I completed my graduate studies in computer science at McGill University. These were not the happiest days of my life, but I fell in love with programming languages (or just PL). I still find time to fulfill my interests about a pleasant formalization for hardware + software. I am a big fan of proof assistants and dependent types. Check [this page]({{ site.url }}{{ site.baseurl }}/academic) for more information. Do you also like these topics? Let's have some coffee or tea and and talk about PL!
 
 I also supported multiple [SIGPLAN](https://www.sigplan.org/) [conferences](https://www.sigplan.org/Conferences/) as a volunteer and as a member of the organizing committee of POPL, ICFP, PLDI. But almost none cares about that.
 
