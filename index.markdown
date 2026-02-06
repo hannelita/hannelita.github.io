@@ -7,11 +7,11 @@ layout: home
 
 Hi! Welcome to this page; make yourself at home!
 
-I am currently working at Nasdaq as a Software Engineer (focusing on SRE and product development). 
+I am currently working at Nasdaq as a Lead Software Engineer (focusing on software architecture). 
 
-I am very much passionate about Programming Languages and verification and research related to this field. Unfortunately, I've been away that for a while, since it's hard to get into these topics in a regular SEng industry job, but I am very much interested in the subject. I'm always open to chat about it! Do you also like these topics? Let's have some coffee or tea and and talk about PL!
+I am very much passionate about Programming Languages, program verification and research related to this field. Unfortunately, I've been away from these for a while, since it's hard to get into these topics in a regular SEng industry job. But I am very much interested in the subject and I'm always open to chat about it! Do you also like these topics? Let's have some coffee or tea and and talk about PL!
 
-A while back, I was working at Intel, designing and maintaining [tools](https://github.com/p4lang/p4c) for [p4](https://opennetworking.org/p4/) programs. I was also a part-time faculty at [Dawson College](https://www.dawsoncollege.qc.ca/computer-science-technology/), where I shared my passion about programming. I do enjoy teaching and compilers.
+A while back, I was working at Intel, designing and maintaining [tools](https://github.com/p4lang/p4c) for [p4](https://opennetworking.org/p4/) programs. I was also a part-time faculty at [Dawson College](https://www.dawsoncollege.qc.ca/computer-science-technology/), where I shared my passion for programming. I do enjoy teaching and compilers.
 
 Take a look at my [CV]({{ site.url }}/download/HanneliCVwithprojects-dld.pdf) for more information.
 
