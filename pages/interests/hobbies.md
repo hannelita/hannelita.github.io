@@ -8,12 +8,13 @@ I eventually enjoy non-coding/non-math topics, such as Pokémon, Lego, figure sk
 
 ### Human languages
 
-* Portuguese (native speaker)
-* English (C1)
-* French (B2)
+* English (fluent proficiency)
+* French (fluent proficiency)
+* Portuguese (native proficiency)
 * German (A2)
-* Japanese (Still a beginner, but one day I'd like to be a fluent speaker!)
 * I can get by with Italian and Spanish, but I never took any classes.
+* Japanese (Still a beginner, but one day I'd like to be a fluent speaker!)
+
 
 ### Random stuff
 

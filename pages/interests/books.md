@@ -46,4 +46,5 @@ Below, multiple titles I read during my undergrad years (more than a decade ago;
 1. Agatha Christie Books - I find them relaxing.
 1. Clarice Lispector.
 
+TODO: I need to update this list with recent readings.
 
